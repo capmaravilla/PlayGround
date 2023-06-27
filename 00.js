@@ -3,4 +3,5 @@ function myFn() {
 }
 
 console.log(myFn());
+console.log(myFn());
 
