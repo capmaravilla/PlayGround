@@ -1,3 +1,2 @@
-if (numero === 4) {
-    continue;
-  }
+buscaPrimos(1, 100);
+// buscaPrimos(100, 200);
