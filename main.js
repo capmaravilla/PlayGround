@@ -1,38 +1,20 @@
-const array = [1, 2, 3, 1, 4, 1, 'id', 3, 4, 1, 3, 2];
+const array = [1, 2, 3, 1, 2, 1, 1, 1];
 
-let repeticiones = {};
-let pares = 0;
-
-array.forEach(function (el) {
-  if (repeticiones[el]) {
-    repeticiones[el]++;
-  } else {
-    repeticiones[el] = 1;
+function numPares(ar) {
+  let rep = {};
+  let par = 0;
+  ar.forEach(el => {
+    if (ar[el]) {
+      ar[el]++;
+    } else {
+      ar[el] = 0;
+    }
+  });
+  for(num in rep){
+    par = par + Math.floor(rep[num]/2)
   }
-});
-
-for (let par in repeticiones) {
-  pares = pares + Math.floor(repeticiones[par] / 2);
+  return par
 }
 
-// console.log(repeticiones);
-// console.log(pares);
-
-const obj = {
-  id: 4,
-  name: 'David',
-};
-
-obj.id = 6;
-
-obj.id++;
-
-array.forEach(function (el) {
-  if (obj[el]) {
-    obj[el]++;
-  } else {
-    obj[el] = 1;
-  }
-});
-
-console.log(obj);
+const resultado = numPares(array)
+console.log(resultado);
