@@ -1,0 +1,89 @@
+{{youtube-timestamp 0}} - Introducción
+{{youtube-timestamp 875}} - Descarga de recursos del curso  
+{{youtube-timestamp 1274}} - Qué es Javascript  
+{{youtube-timestamp 1616}} - Creando las carpetas del curso  
+{{youtube-timestamp 1915}} - Hola Mundo con Javascript  
+{{youtube-timestamp 2657}} - Preparando archivos adicionales de la sección  
+{{youtube-timestamp 2813}} - Variables  
+{{youtube-timestamp 3661}} - Tipos de Datos (Cadenas de Texto y Números)  
+{{youtube-timestamp 4207}} - Tipos de Datos (Arreglos, Objetos y Funciones)  
+{{youtube-timestamp 4764}} - Operadores aritméticos y de comparación  
+{{youtube-timestamp 5633}} - Operadores lógicos  
+{{youtube-timestamp 6216}} - Arreglos  
+{{youtube-timestamp 6950}} - Objetos  
+{{youtube-timestamp 7690}} - Template Strings  
+{{youtube-timestamp 8044}} - Condicionales  
+{{youtube-timestamp 9033}} - Condicionales Switch  
+{{youtube-timestamp 9715}} - Operador Ternario  
+{{youtube-timestamp 10273}} - Funciones  
+{{youtube-timestamp 10952}} - Parámetros y Argumentos de Función  
+{{youtube-timestamp 11618}} - Sentencia Return  
+{{youtube-timestamp 12172}} - Variables Globales (Scope de Javascript)  
+{{youtube-timestamp 12417}} - Variables Locales  
+{{youtube-timestamp 12860}} - Variables de Bloque  
+{{youtube-timestamp 13618}} - Métodos para trabajar con arreglos (Parte 1)  
+{{youtube-timestamp 14409}} - Métodos para trabajar con arreglos (Parte 2)  
+{{youtube-timestamp 14972}} - Métodos para trabajar con arreglos (Parte 3)  
+{{youtube-timestamp 15968}} - Métodos para trabajar con arreglos (Parte 4)  
+{{youtube-timestamp 16618}} - Métodos para trabajar con arreglos (Parte 5)  
+{{youtube-timestamp 17124}} - Métodos para trabajar con objetos  
+{{youtube-timestamp 17526}} - Métodos para trabajar con cadenas de texto  
+{{youtube-timestamp 18443}} - Métodos para trabajar con números  
+{{youtube-timestamp 19322}} - Operador spread, rest y destructuración de objetos.  
+{{youtube-timestamp 20269}} - Ciclo For  
+{{youtube-timestamp 21331}} - Break y Continue  
+{{youtube-timestamp 22108}} - Ciclo while  
+{{youtube-timestamp 22550}} - Ciclo foreach, for in, for of  
+{{youtube-timestamp 23180}} - Clases  
+{{youtube-timestamp 24023}} - Herencia  
+{{youtube-timestamp 24852}} - Métodos y Propiedades Estáticos  
+{{youtube-timestamp 25251}} - Callbacks  
+{{youtube-timestamp 25741}} - Promesas  
+{{youtube-timestamp 26363}} - Ejemplo de promesa  
+{{youtube-timestamp 26973}} - Async/Await - Try/Catch  
+{{youtube-timestamp 27701}} - Qué son los módulos  
+{{youtube-timestamp 27802}} - Instalando NodeJS  
+{{youtube-timestamp 28358}} - Instalando Rollup  
+{{youtube-timestamp 28828}} - Utilizando Rollup  
+{{youtube-timestamp 29980}} - Named Imports y Namespace Imports  
+{{youtube-timestamp 30619}} - Default Imports  
+{{youtube-timestamp 30998}} - Emtpy Imports  
+{{youtube-timestamp 31204}} - Introducción al BOM  
+{{youtube-timestamp 32224}} - Objeto Window  
+{{youtube-timestamp 32876}} - Objeto Location y History  
+{{youtube-timestamp 33424}} - Objeto Navigator  
+{{youtube-timestamp 33642}} - Alertas  
+{{youtube-timestamp 34038}} - Funciones de tiempo  
+{{youtube-timestamp 34749}} - Cookies  
+{{youtube-timestamp 36061}} - Introducción al DOM  
+{{youtube-timestamp 36169}} - Creando los archivos de la sección  
+{{youtube-timestamp 36313}} - Seleccionando elementos del DOM (parte 1)  
+{{youtube-timestamp 36999}} - Seleccionando elementos del DOM (parte 2)  
+{{youtube-timestamp 37652}} - Modificando elementos del DOM  
+{{youtube-timestamp 38304}} - Creando y agregando nodos al DOM  
+{{youtube-timestamp 38991}} - Eliminando elementos del DOM  
+{{youtube-timestamp 39303}} - Modificando los estilos de los elementos del DOM con CSS  
+{{youtube-timestamp 39982}} - Modificando los estilos de los elementos del DOM con Javascript  
+{{youtube-timestamp 40604}} - Que son los eventos  
+{{youtube-timestamp 40747}} - Como agregar eventos  
+{{youtube-timestamp 41587}} - Propagación de Eventos  
+{{youtube-timestamp 41950}} - Tipos de Propagación  
+{{youtube-timestamp 42211}} - Eliminar Eventos del DOM  
+{{youtube-timestamp 42763}} - Presentación del proyecto (galería)  
+{{youtube-timestamp 42939}} - Presentación del proyecto (tienda)  
+{{youtube-timestamp 43112}} - Introducción a la sección  
+{{youtube-timestamp 43292}} - Creando los archivos de la sección  
+{{youtube-timestamp 43647}} - Accediendo a elementos de formulario (parte 1)  
+{{youtube-timestamp 44697}} - Eventos para formularios  
+{{youtube-timestamp 45636}} - Validación de formularios  
+{{youtube-timestamp 46587}} - Expresiones regulares para validar formularios  
+{{youtube-timestamp 47194}} - Presentación del proyecto (formulario)  
+{{youtube-timestamp 47441}} - Introducción a las APIs  
+{{youtube-timestamp 47902}} - LocalStorage API  
+{{youtube-timestamp 48550}} - Trabajando con la API nueva de fechas  
+{{youtube-timestamp 49183}} - JSON  
+{{youtube-timestamp 49999}} - Fetch API  
+{{youtube-timestamp 50851}} - Presentación del proyecto (página de películas)  
+{{youtube-timestamp 51049}} - Presentación del proyecto (app de gastos)  
+{{youtube-timestamp 51241}} - Presentación del proyecto (portafolio)  
+{{youtube-timestamp 51396}} - Conclusión  
