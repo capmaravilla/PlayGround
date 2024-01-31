@@ -19,3 +19,11 @@ h2 {
   text-align: center;
   font-size: 18px;
 }
+
+h3 {
+  --color1: #62b455;
+  --color2: #ffa0a0;
+  --color3: #fe536a;
+  --color4: #cccccc;
+  --color5: #d2a032;
+}

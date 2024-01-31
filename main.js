@@ -1,24 +1,40 @@
-array = [10, 20, 20, 20, 10, 10, 30, 50, 10, 20];
-num = array.length;
+const camino = 'UDDUUDDUDUUUD';
+const camino2 = 'UDDDUDUU';
 
-function sockMerchant(n, ar) {
-  let rep = {};
-  let par = 0;
+const camino3 = 'UUDDDUDUU';
+const resultado = camino3.replace(/^U+/, '');
 
-  ar.forEach(function (numero) {
-    if (rep[numero]) {
-      rep[numero] += 1;
-    } else {
-      rep[numero] = 1;
+console.log(resultado);
+
+console.log(camino2);
+
+function countingValleys(steps, path) {
+  const path2 = path.replace(/^U+|D+$/g, '');
+
+  let count = 0;
+
+  for (let k = 0; k < path2.length - 1; k++) {
+    if (path2[k] === 'U' && path2[k + 1] === 'D') {
+      count++;
     }
-  });
-  //   return rep;
-
-  for (let el in rep) {
-    par = par + Math.floor(rep[el] / 2);
   }
-  return par;
+
+  console.log(count);
 }
 
-const result = sockMerchant(num, array);
+const result = countingValleys(camino.length, camino);
 console.log(result);
+
+/*    
+          UDDDUDUU = 1
+
+          _/\      _ 
+             \    /
+              \/\/
+          
+          DDUUDDUDUUUD = 2
+
+         _          /\_
+          \  /\    /
+           \/  \/\/
+*/
