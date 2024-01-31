@@ -1,29 +1,20 @@
 const camino = 'UDDUUDDUDUUUD';
 const camino2 = 'UDDDUDUU';
 
-const camino3 = 'UUDDDUDUU';
-const resultado = camino3.replace(/^U+/, '');
-
-console.log(resultado);
-
-console.log(camino2);
-
 function countingValleys(steps, path) {
-  const path2 = path.replace(/^U+|D+$/g, '');
-
-  let count = 0;
-
-  for (let k = 0; k < path2.length - 1; k++) {
-    if (path2[k] === 'U' && path2[k + 1] === 'D') {
-      count++;
+  let currentLevel = 0;
+  let valleys = 0;
+  for (let i = 0; i < steps; i++) {
+    currentLevel = path[i] === 'U' ? currentLevel + 1 : currentLevel - 1;
+    if (currentLevel === -1 && path[i] === 'D') {
+      valleys = valleys + 1;
     }
   }
-
-  console.log(count);
+  return valleys;
 }
 
-const result = countingValleys(camino.length, camino);
-console.log(result);
+const resultado = countingValleys(10, camino);
+console.log(resultado);
 
 /*    
           UDDDUDUU = 1
